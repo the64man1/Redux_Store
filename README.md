@@ -8,6 +8,8 @@ This application allows users to view items in a virtual store, add items to and
 This project was primarily an exercise in understanding state, and how to implement the Redux package for handling state. I completed this project by refactoring an existing application that used the React Context API for handling state; through reading the Redux documentation, I was able to run the application using Redux to handle global state.
 
 In completing this project, I learned about the benefits of managing state globally, how to refactor existing code, and gained valuable experience in reading documentation to gain competency in a technology.
+
+![_️-Shop-Shop](https://user-images.githubusercontent.com/74144055/128450735-9a656740-e306-465b-848e-95334028ca62.png)
    
 ## Table of Contents
     
